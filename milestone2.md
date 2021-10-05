@@ -1,4 +1,5 @@
 # Milestone 2: Definition and Related Work
+[Back to Home](https://matzomt.github.io/csci4800/)
 
 ## A. Task/Problem Definition
 ### Introduce Your Problem
@@ -21,3 +22,6 @@ blackboard
 solutions here
 ### How will you measure success?
 success measures
+
+## D. Summary Video
+...link here
