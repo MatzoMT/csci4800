@@ -24,7 +24,9 @@ solutions here
 success measures
 
 ## D. Summary Video
-...link here
+[YouTube Link](https://www.youtube.com/watch?v=XVW4yPxPOwY)
+
+[![IMAGE_ALT](https://img.youtube.com/vi/XVW4yPxPOwY/maxresdefault.jpg)](https://www.youtube.com/watch?v=XVW4yPxPOwY)
 
 ## Sources
 [1] LeBlanc, http://communication.utsa.edu/leblanc/articles/art31.pdf
