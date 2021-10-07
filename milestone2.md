@@ -29,9 +29,9 @@ success measures
 [![IMAGE_ALT](https://img.youtube.com/vi/XVW4yPxPOwY/maxresdefault.jpg)](https://www.youtube.com/watch?v=XVW4yPxPOwY)
 
 ## Sources
-[1] LeBlanc, http://communication.utsa.edu/leblanc/articles/art31.pdf
+[1] LeBlanc, [http://communication.utsa.edu/leblanc/articles/art31.pdf](http://communication.utsa.edu/leblanc/articles/art31.pdf)
 
-[2] Chamberlain, https://journals.sagepub.com/doi/full/10.1177/1469787418819728
+[2] Chamberlain, <https://journals.sagepub.com/doi/full/10.1177/1469787418819728>
 
 [3] eLC documentation https://documentation.brightspace.com/EN/le/grades/instructor/set_up_grade_book.htm
 
