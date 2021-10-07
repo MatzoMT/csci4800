@@ -35,9 +35,10 @@ success measures
 
 [4] Canvas documentation https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701
 
-[5] Blackboard documentation
+[5] UC Boulder Student Study
+https://www.colorado.edu/lms/sites/default/files/attached-files/lms_eval-stud_1.pdf
 
-[6] UC Boulder study https://www.colorado.edu/lms/sites/default/files/attached-files/lms_eval-fac_0.pdf
+[6] UC Boulder instructor study https://www.colorado.edu/lms/sites/default/files/attached-files/lms_eval-fac_0.pdf
 
 [7] Capterra LMS survey https://www.capterra.com/learning-management-system-software/user-research
 
@@ -50,3 +51,21 @@ success measures
 [11] Canvas instructor view https://www.csustan.edu/office-academic-technology/canvas/canvas-how-gradebook-setup-and-grading
 
 [12] Canvas student view https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-my-grades-in-a-current-course/ta-p/493
+
+[13] Blackboard Instructor features, pros and cons
+https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Navigate_Grading
+
+[14] Blackboard Grades Student View
+https://help.blackboard.com/Learn/Student/Ultra/Grades
+
+[15] Spreadsheet analyzing student sentiment of eLC Gradebook
+https://docs.google.com/spreadsheets/d/1k4ryR_frWc1d-duoLC8xsZjQlYNBuNmeGjvWkQCUQ2U/edit?usp=sharing
+
+[16] Existing solutions market share
+https://www.insidehighered.com/digital-learning/article/2018/07/10/canvas-catches-and-maybe-passes-blackboard-top-learning
+
+[17] Pro-cons of Blackboard, Canvas, D2L
+https://elearningindustry.com/learning-management-systems-for-higher-education-overview-popular
+
+[18] UGA Guidelines on eLC Gradebook Setup
+https://help.elc.uga.edu/assessments/gradebook/grades_setup/
