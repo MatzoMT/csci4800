@@ -99,6 +99,8 @@ A design could be deemed as successful when someone who has never used the desig
 On the student end, a successful design may also be judged by the overall end grades of the students to see if this updated design allows more transparency for students, which in return creates a more motivated desire to get the grades needed to excel in the class. This causation may be hard to determine and is just a hypothesis, however, so a more straightforward approach would be to survey students to determine whether the new eLC gradebook is showing them the information they were looking for.
 
 ## D. Summary Video
+Link to video: <https://youtu.be/XVW4yPxPOwY>
+
 {% include_relative youtubeMilestone2.html %}
 
 ## Sources
