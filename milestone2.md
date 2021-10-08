@@ -75,7 +75,7 @@ There are also separate Student Information Systems that some school systems and
 ### Describe potential guidelines and solutions
 **Guidelines** - Fortunately, it seems as though the above solutions are built with universal usability in mind, and since they are used across many types of schools and institutions, including public institutions. This means each software overall conforms to WCAG accessibility guidelines, including the Gradebook views. [8][9][10] In addition, the basic guidelines for designing user interface software, as laid out by Smith and Mosier, have been followed. [19] For instance, data entry for instructors is supported with mouse and keyboard input, data visualization is laid out clearly in tabular formats for both students and instructors, and there is generally a clear sequence of actions for users.  
 
-**Principles** - Potential solutions should ideally conform to Norman’s Principles of Good Design and other such sets of principles. [20] All three systems appropriately provide a match between the online system and the real world. Each online gradebook roughly matches the spreadsheet format that would be found in a pen-and-paper version. This makes the conceptual model easy to understand, as the user already knows what to expect from the interface due to having dealt with a physical analogue. In addition, each platform has generally aimed for consistency, by ensuring that any icons or colors have the same meaning across the UI. Also, for the instructor view of the gradebooks, each system has done a good job of keeping the user in control, by providing lots of options to configure and tweak the structure of the grades and assignment settings. Furthermore, Canvas’s and Blackboard’s features on the instructor end show an appeal to discoverability because much of their configuration tools are made available in the grades section without having to navigate to hidden menus or other pages to access those key features. The same cannot entirely be said of eLC/D2L, which tends to hide options and functions behind a few clicks, and does not clearly signify where they are located. It would certainly best serve our users to ensure visibility of gradebook functions identified as important by students, so that instructors have an easier time finding these settings and can implement them more frequently.
+**Principles** - Potential solutions should ideally conform to established sets of principles such as Norman’s Principles of Good Design and The Eight Golden Rules of Interface Design. [20][21] All three systems appropriately provide a match between the online system and the real world. Each online gradebook roughly matches the spreadsheet format that would be found in a pen-and-paper version. This makes the conceptual model easy to understand, as the user already knows what to expect from the interface due to having dealt with a physical analogue. In addition, each platform has generally aimed for consistency, by ensuring that any icons or colors have the same meaning across the UI. Also, for the instructor view of the gradebooks, each system has done a good job of keeping the user in control, by providing lots of options to configure and tweak the structure of the grades and assignment settings. Furthermore, Canvas’s and Blackboard’s features on the instructor end show an appeal to discoverability because much of their configuration tools are made available in the grades section without having to navigate to hidden menus or other pages to access those key features. The same cannot entirely be said of eLC/D2L, which tends to hide options and functions behind a few clicks, and does not clearly signify where they are located. It would certainly best serve our users to ensure visibility of gradebook functions identified as important by students, so that instructors have an easier time finding these settings and can implement them more frequently.
 
 ## C. Proposed Solution
 ### Propose your solution
@@ -104,49 +104,44 @@ Link to video: <https://youtu.be/XVW4yPxPOwY>
 {% include_relative youtubeMilestone2.html %}
 
 ## Sources
-[1] LeBlanc, <http://communication.utsa.edu/leblanc/articles/art31.pdf>
+[1] Paul LeBlanc. 2005. The Relationship Between Attendance and Grades in the College Classroom. In *17th Annual Meeting of the International Academy of Buisness Disciplines*. From <http://communication.utsa.edu/leblanc/articles/art31.pdf>
 
-[2] Chamberlain, <https://journals.sagepub.com/doi/full/10.1177/1469787418819728>
+[2] Kelsey Chamberlin, Mai Yasue, I-Chant Andrea Chiang. 2018. The impact of grades on student motivation. In *Active Learning in Higher Education*. <https://journals.sagepub.com/doi/full/10.1177/1469787418819728>
 
-[3] eLC documentation <https://documentation.brightspace.com/EN/le/grades/instructor/set_up_grade_book.html>
+[3] Set up your grade book. Brightspace Help. 2021. D2L. From <https://documentation.brightspace.com/EN/le/grades/instructor/set_up_grade_book.htm>
 
-[4] Canvas documentation <https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701>
+[4] How do I use the Gradebook? Instructure Community. 2021. Instructure. From <https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701>
 
-[5] UC Boulder Student Study
-<https://www.colorado.edu/lms/sites/default/files/attached-files/lms_eval-stud_1.pdf>
+[5] Student Experience with D2L and other LMSs. University of Colorado Boulder. 2016. From <https://www.colorado.edu/lms/sites/default/files/attached-files/lms_eval-stud_1.pdf>
 
-[6] UC Boulder instructor study <https://www.colorado.edu/lms/sites/default/files/attached-files/lms_eval-fac_0.pdf>
+[6] LMS Evaluation and Selection Project Faculty Survey Report. University of Colorado Boulder. 2017. From <https://www.colorado.edu/lms/sites/default/files/attached-files/lms_eval-fac_0.pdf>
 
-[7] Capterra LMS survey <https://www.capterra.com/learning-management-system-software/user-research>
+[7] Brian Westfall. 2020. Back to School: The Top Learning Management System Statistics Impacting Education. From <https://www.capterra.com/learning-management-system-software/user-research>
 
-[8] Canvas accessibility <https://www.instructure.com/canvas/accessibility?newhome=canvas>
+[8] Product Accessibility. Instructure. 2021. From <https://www.instructure.com/canvas/accessibility?newhome=canvas>
 
-[9] D2L accessibility <https://www.d2l.com/accessibility/standards/>
+[9] Accessibility Compliance. D2L. 2021. From <https://www.d2l.com/accessibility/standards/>
 
-[10] Blackboard accessibility <https://www.blackboard.com/blackboard-accessibility-commitment>
+[10] Accessibility at Blackboard. Blackboard Inc. 2021. From <https://www.blackboard.com/blackboard-accessibility-commitment>
 
-[11] Canvas instructor view <https://www.csustan.edu/office-academic-technology/canvas/canvas-how-gradebook-setup-and-grading>
+[11] Canvas How-To: Gradebook Setup and Grading. Sanislaus State. From <https://www.csustan.edu/office-academic-technology/canvas/canvas-how-gradebook-setup-and-grading>
 
-[12] Canvas student view <https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-my-grades-in-a-current-course/ta-p/493>
+[12] How do I view my grades in a current course? Canvas Student Guide. 2020. Instructure. From <https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-my-grades-in-a-current-course/ta-p/493>
 
-[13] Blackboard Instructor features, pros and cons
-<https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Navigate_Grading>
+[13] Navigate Grading. Blackboard Help (Instructor). 2021. Blackboard Inc. From <https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Navigate_Grading>
 
-[14] Blackboard Grades Student View
-<https://help.blackboard.com/Learn/Student/Ultra/Grades>
+[14] Grades. Blackboard Help (Student). 2021. Blackboard Inc. From <https://help.blackboard.com/Learn/Student/Ultra/Grades>
 
-[15] Spreadsheet analyzing student sentiment of eLC Gradebook
-<https://docs.google.com/spreadsheets/d/1k4ryR_frWc1d-duoLC8xsZjQlYNBuNmeGjvWkQCUQ2U/edit?usp=sharing>
+[15] Spreadsheet analyzing online sentiment of D2L. <https://docs.google.com/spreadsheets/d/1k4ryR_frWc1d-duoLC8xsZjQlYNBuNmeGjvWkQCUQ2U/edit?usp=sharing>
 
-[16] Existing solutions market share
-<https://www.insidehighered.com/digital-learning/article/2018/07/10/canvas-catches-and-maybe-passes-blackboard-top-learning>
+[16] Lindsay McKenzie. 2018. Canvas Catches, and Maybe Passes, Blackboard. Inside Higher Ed. <https://www.insidehighered.com/digital-learning/article/2018/07/10/canvas-catches-and-maybe-passes-blackboard-top-learning>
 
-[17] Pro-cons of Blackboard, Canvas, D2L
-<https://elearningindustry.com/learning-management-systems-for-higher-education-overview-popular>
+[17] Isha Sood. An Overview of 4 Popular Learning Management Systems for Higher Education. ELearning Industry. <https://elearningindustry.com/learning-management-systems-for-higher-education-overview-popular>
 
-[18] UGA Guidelines on eLC Gradebook Setup
-<https://help.elc.uga.edu/assessments/gradebook/grades_setup/>
+[18] Grades Setup: Gradebook: Assessments: eLC Help. UGA. From <https://help.elc.uga.edu/assessments/gradebook/grades_setup/>
 
-[19] Smith and Mosier, Guidelines for Designing User Interface Software <http://www.hcibib.org/sam/4.html>
+[19] Sidney Smith, Jane Mosier. 1986. Guidelines for Designing User Interface Software. From <http://www.hcibib.org/sam/4.html>
 
-[20] Norman's Principles of Good Design <https://michaelcotterell.com/hci/2021fa/html/ddq/2021-09-21-TUE.html#term-Norman-s-Principles-of-Good-Design>
+[20] Donald A. Norman. 2013. *Chapter 1: The Design of Everyday Things*. Basic Books, New York, New York, Revised and Expanded Edition edition. ISBN 978-0-465-05065-9.
+
+[21] Ben Shneiderman, Catherine Plaisant, Maxine Cohen, Steven Jacobs, Niklas Elmqvist, and Nicholas Diakopoulos. Chapter 3.3.4: The Eight Golden Rules of Interface Design. In *Designing the User Interface*. Pearson, Boston, 6 edition, 2017.
