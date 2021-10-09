@@ -9,7 +9,7 @@ While customizability for instructors is welcome, it also leads to large inconsi
  
 Though eLC has all the functions needed of a well-structured gradebook and fits the appropriate conceptual model, we find the system has subpar discoverability and visibility on the instructor end, due to the lack of signifiers for how to implement certain functions into the gradebook. For example, the UI has the property of having many menus and other pages to navigate through, partially because of all of the customizability options, which can make for a cluttered and confusing experience for the instructor. Despite the functionality being available, these functions are not made immediately clear as affordances of the system. It is evident that the system affords entering grades for each student, for instance, but it is not clear that instructors can categorize assignments because the option is hidden behind several clicks. Instructors may have to spend some time digging around in menus or documentation to figure out how to set up a gradebook to their liking -- UGA also provides instructors a lengthy guide to navigating Grades on eLC. [18] While the main problem we identified is the lack of consistency in the Grades page for students, a closer examination reveals that the problem is largely caused by the instructor-side design.
 ![problem1](assets/images/elcproblem.png)
-<span style="color:#4a4a4a">cardinals</span>
+<span style="color:#4a4a4a">Fig 1.1 shows the difficulty with configuring eLC to show a better interface for grades. The arrows point to one of many examples where certain features are hidden, making the discoverability and signifiers for editing eLC inadequate.</span>
 
 
  
@@ -45,12 +45,18 @@ Seven Stages of Action, for Instructors:
 6. **Interpret**: Depending on how the instructor has their gradebook setup the grades for a given assignment may show in a different category than intended or only in certain areas of the course. This may make it hard for the instructor to judge which students are struggling and/or need more help understanding certain coursework. 
 7. **Compare**: The instructor may reflect on the experience of entering grades into the gradebook and compare it to experiences with different learning platforms and be less satisfied due to the lack of discoverability in comparison to other platforms. The instructor has completed the goal, but it may have been more complex than expected if they wanted to, for example, set a category for that assignment.
 
+![sevenstages](assets/images/sevenstages.png)
+<span style="color:#4a4a4a">Fig 1.3 visuals the Seven Stages of Action.</span>
+
 ### Identify your potential users
 There are two main user populations affected by this problem with eLC: Students and Instructors (including professors, TAs, etc.) at the University of Georgia. As eLC is based on the Brightspace (Desire2Learn) Learning Environment, students and professors at other universities which use Brightspace as a base for their school-wide learning management system likely face similar problems, yet our problem is focused on eLC specifically. The gradebook in eLC differs based on a student view and an instructor view.
 
 As students must contend with presentation inconsistencies across all courses in order to determine their overall standing, they become the most impacted stakeholder in this issue. Grades have been linked to students’ feelings of autonomy, where the grades a student makes in a class can influence their future class scheduling and career planning decisions [2]. Our analysis of Reddit comments also indicated that many students exhibited confusion at the fact that they could not easily interpret the Grades page. If the eLC gradebook were to more clearly reflect a student’s standing in the course, it may alleviate anxiety and save students’ time manually calculating their grades.
 
 Professors are also impacted as a stakeholder. For instance, depending on their chosen presentation of the eLC gradebook, they may have to manually calculate students’ final grades, creating otherwise unnecessary work for them at the end of each semester. By better designing the system to make it easier for professors to find calculated final grades, they would be able to save time. Instructors may also be affected negatively if students bombard them with questions about their present academic standing, or when students become reluctant to dedicate more time or attendance in improving their grade in the class. Thus, a solution to the student-side of the issue could positively impact professors as well. Professors perform related tasks such as calculating students’ final grades (if their gradebook is not set up so that it is automatic) and transferring final grades over from eLC to Athena.
+
+![comment1](assets/images/comment1.png)
+<span style="color:#4a4a4a">Fig 1.2 shows an example of negative feedback from a D2L user posting on the social media site Reddit. D2L stands for Desire2Learn, which is the platform eLC is based on.</span>
 
 ## B. Analysis of Existing Solutions
 ### Describe Existing Solutions
