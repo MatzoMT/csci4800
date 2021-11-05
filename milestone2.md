@@ -120,7 +120,7 @@ On the student end, a successful design could theoretically be judged by the ove
 ## D. Summary Video
 Link to video: <https://youtu.be/XVW4yPxPOwY>
 
-{% include_relative youtubeMilestone2.html %}
+{% include_relative assets/html/youtubeMilestone2.html %}
 
 ## Sources
 [1] Paul LeBlanc. 2005. The Relationship Between Attendance and Grades in the College Classroom. In *17th Annual Meeting of the International Academy of Buisness Disciplines*. From <http://communication.utsa.edu/leblanc/articles/art31.pdf>
