@@ -11,9 +11,58 @@
 
 ## B. Ideation and Preliminary Designs
 ### Ideation
-ideation info goes here 
+**User Story 1**: As a student user, I want to view my overall calculated grade in a course so that I can understand my overall performance in the class.
+
+Ideation Screenshot:
+![jamboard-1](assets/images/jamboard-1.PNG)
+
+Top Ideas:
+- Have the overall calculated grade set up to be displayed and updated by default in its own section. 
+- Employ a grade calculator built into the eLC grades page to calculate overall grade (both current and potential). 
+
+
+**User Story 2**: As an instructor user, I want to configure a gradebook with features important to students as well as to myself, so that my students are not confused regarding their grade view, I will have to spend less time answering their questions, and I can match my preferred grading style.
+
+Ideation Screenshot:
+![jamboard-2](assets/images/jamboard-2.PNG)
+
+Top Ideas:
+- Have certain fields be opt-in instead of opt-out by default, for instance, displaying and updating final grade. 
+- Add visuals and colors beyond just a plain text form for the gradebook setup wizard to make the UI clearer and more intuitive.  
+
+
+**User Story 3**:  As an instructor user, I want some easy sample frameworks available to use so I can choose a functional and user-friendly set-up without having to know every intricacy of eLC.
+
+Ideation Screenshot:
+![jamboard-3](assets/images/jamboard-3.PNG)
+
+Top Ideas:
+- Have a visual display of cards with sample frameworks to select, which are customizable after selection. 
+- Provide clear explanations for which framework or options are best for which use-case, including explanations for student-friendly settings.  
+
+
+**User Story 4**:  As an instructor user, I want to be able to appropriately categorize a grade item so that I can match my syllabus weighting structure.
+
+Ideation Screenshot:
+![jamboard-4](assets/images/jamboard-4.PNG)
+
+Top Ideas:
+- Provide a form or table page to add categories in bulk/at once, instead of needing to click through the whole menu page for each one.  
+- Provide a drag and drop interface to categorize grade items or order the categories. 
+
+
+**User Story 5**: As an instructor using the eLC gradebook, I want all of the important fields emphasized when creating a grade item so that I do not forget anything and the process is smooth.
+
+Ideation Screenshot:
+![jamboard-5](assets/images/jamboard-5.PNG)
+
+Top Ideas:
+- Update the UI of the grade item creation page with clearly defined sections (weight, effect on grade, etc.) separated by color or font weight. 
+- Display warning messages if certain student-friendly features are missing such as total points are not entered in a numeric assignment, or if item hasn't been categorized.
 
 ### Wireframes
+
+Source Figma File:
 
 User Story 1
 {% include_relative assets/html/figma/wireframe1.html %}
@@ -31,6 +80,8 @@ User Story 5
 {% include_relative assets/html/figma/wireframe5.html %}
 
 ## C. Detailed Designs
+
+Source Figma File:
 
 User Story 1
 {% include_relative assets/html/figma/mockup1.html %}
