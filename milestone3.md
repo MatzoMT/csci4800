@@ -181,4 +181,3 @@ Link to video: <https://youtu.be/dZ1BWm1WqSg>
 [7] How do I use the Gradebook? Instructure Community. 2021. Instructure. From <https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701>
 
 [8] Navigate Grading. Blackboard Help (Instructor). 2021. Blackboard Inc. From <https://help.blackboard.com/Learn/Instructor/Ultra/Grade/Navigate_Grading>
-
