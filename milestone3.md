@@ -123,16 +123,16 @@ Top Ideas:
 
 ### Wireframes
 
-Source Figma File:
+Source Figma File: [download](https://github.com/MatzoMT/csci4800/blob/gh-pages/assets/Wireframes%20and%20Mockups.fig?raw=true)
 
-User Story 1
+**User Story 1**
 {% include_relative assets/html/figma/wireframe1.html %}
 Justification:
 We chose to display the final calculated grade for the course at the top of the page because we felt that this location would be the most realistic and attention-grabbing for a student wanting to view their final grade. Furthermore, courses that do include the final grade on eLC are already included at the top of the page, which seems intuitive as one can expect that students would want to view their total grade first before looking at the makeup of their grade. Therefore, we decided to stay in line with eLC’s existing functionality. The main change in our design is that this score would be displayed by default, a commonly requested feature by students using LMSs [1].
 
 We chose to build out a grade calculator functionality on the side of the current grades table. We chose the right side because it is immediately visible to the student, compared to a calculator on the bottom, which may be missed if the grades table is long and the user must scroll down. We chose the right hand side because research has shown that most users tend to trust information more and can operate tasks easier on the right hand side of the screen, especially since the majority of users are right handed [11]. We also modeled the “Category Breakdown” table and general structure of the calculator to be similar to Canvas’s grade calculator, which is a market-leading LMS with grade predictor functionality built-in [9] [10]. We believe the demonstrated popularity of Canvas and its gradebook functions would make it a good model for eLC.
 
-User Story 2
+**User Story 2**
 {% include_relative assets/html/figma/wireframe2.html %}
 Justification:
 We chose to make the setup wizard automatically have the Final Grade Release option checked by default, and make it an opt-out setting, so that instructors are more likely to keep this option. [12] This tendency for an agent to accept the default condition is sometimes called the “Default Effect” [13]. We anticipate that this will lead to more students being able to view their final grades in a course and a more consistent and informative experience for students. We also have an exclamation point in red to show that it is an important setting. We mirrored this same pattern for keeping the final grade automatically updated. This is defaulted and shows an exclamation point to emphasize the importance. 
@@ -141,7 +141,7 @@ On these pages, we followed eLC’s existing pattern of using checkboxes and rad
 
 We thought it would be helpful to have a completion bar at the top which shows how far along in the grading process an instructor is so it’s less unknown and more encouraging to get through. We also incorporated the use of color and better sizing / font weights for our page because we feel this will make the page more visually appealing than a long plain text form and less intimidating for instructors, especially those new to setting up a gradebook in eLC.
 
-User Story 3
+**User Story 3**
 {% include_relative assets/html/figma/wireframe3.html %}
 Justification:
 In this story's wireframe, we did not separate them out into two different series of frames because we felt that both proposed ideas dealt with different aspects of the same user story.
@@ -154,7 +154,7 @@ Users can access explanations for each pre-made framework via the “i” inform
 
 Because the two ideas for this user story are similar, we felt that these ideas can be combined in a single wireframe.For example, the tile framework desgin refers to idea 1 and the explanations for which framework to use are part of idea 2, and these two ideas were combined in the public framework frame.
 
-User Story 4
+**User Story 4**
 {% include_relative assets/html/figma/wireframe4.html %}
 Justification:
 We added a separate page from which instructors could add multiple categories for their class in bulk. This form page follows conventional design guidelines for data entry forms, such as providing clear visual delimiters of the form field boundaries, informative labels, and consistent spacing. [16] We believe the ability to add multiple at once is an improvement as it allows for quicker configuration.
@@ -164,7 +164,7 @@ We added a drag and drop interface to the Manage Grades Page’s Grade Item tabl
 To indicate that the rows are draggable, we chose the six dots icon which is a common signifier in use for this purpose [17]. In addition, to further signal the intended behavior, we imagine that the cursor would change upon hovering over one of the rows to the platform standard for movement (a grabbing hand on Mac or crossbar on Windows), but we could not include that behavior in the wireframe. We included a drop shadow to provide feedback when an item is selected for dragging, which is also a standard signifier to let users know which item they are currently moving [17]. This same icon is used by Canvas, a market-leading LMS, for the same purpose of allowing instructors to reorganize grade items and their groups. [18]
 
 
-User Story 5
+**User Story 5**
 {% include_relative assets/html/figma/wireframe5.html %}
 Justification:
 In these wireframes, we attempted to make the experience of adding a grade item as easy and simple as possible for instructors, with individual boxes for each important grade item field so instructors can more efficiently create understandable and informative grade items. 
@@ -174,9 +174,9 @@ We also included the warning for certain student-friendly features missing in a 
 
 ## C. Detailed Designs
 
-Source Figma File:
+Source Figma File: [download](https://github.com/MatzoMT/csci4800/blob/gh-pages/assets/Wireframes%20and%20Mockups.fig?raw=true)
 
-User Story 1
+**User Story 1**
 {% include_relative assets/html/figma/mockup1.html %}
 Justification:
 In our high-fidelity mockup of a student’s eLC grades view, we chose the grade calculator idea to be the best, as it added more functionality which was currently missing. The idea of having a student’s final grade displayed by default did not in and of itself necessitate a design change on the student view end, unlike the grade calculator tool. But a grade calculator tool would be most useful if the current grade is made available to students, so we kept with the ideal that the overall grade would be displayed to students. Our research has led us to conclude that the combination of both of these design features would adequately address students’ current desires for the eLC (Desire2Learn) Grades view. Namely, this would address student concerns that “Gradebooks are not set up to display current course grade” and “Gradebooks are not set up to display final grade”. [1]
@@ -185,7 +185,7 @@ We carried over the decision made in our wireframes of this story, which was to 
 
 Additionally, we kept with the decision to keep the grade calculator tool on the right hand side of the page, modeled after Canvas’s “What If” tool’s placement. [18] We also added the color signifiers to the Grade Calculator tool on the right.
 
-User Story 2
+**User Story 2**
 {% include_relative assets/html/figma/mockup2.html %}
 Justification:
 For this story’s high fidelity mockup, we chose to incorporate both of our design ideas from the wireframes. Both ideas deal with different aspects of the user action of setting up the gradebook configuration, and as such, both are important to include in our proposed design.
@@ -197,14 +197,14 @@ We also added a proper error/warning message in order to display that the instru
 Blackboard, another LMS, has an appropriate use of icons and colors so we mirrored these for our redesigned eLC page as well. [8] This is accomplished through the additions of blue and green which we incorporated into the navigation buttons at the bottom of each page.
 
 
-User Story 3
+**User Story 3**
 {% include_relative assets/html/figma/mockup3.html %}
 Justification:
 As this user story only had one series of actions in the wireframe that encompassed both design ideas, we did not have to pick between multiple design options. One change we have made from the wireframe was adding a red warning for when the weighs of the sections do not add up to 100. Red in western cultures often signifies urgency, which we felt this change would represent by requiring the user to make sufficient changes before finalizing them [20].
 
 In addition, we made more use of colors where a heavier shade of blue indicates a heavier grade weight, whereas a lighter shade indicates a lighter grade weight. We decided to use blue for this case because blue was already being used in the hyperlink and button colors, and we did not want to bombard the user with multiple colors. As a result of better use of colors, we believe that the interface for our mockup becomes easier to use in contrast to the original eLC format, which was largely text based and had very few colors or graphics.
 
-User Story 4
+**User Story 4**
 {% include_relative assets/html/figma/mockup4.html %}
 Justification:
 For our high fidelity mockup, we combined the two ideas of having a separate form page to add categories in bulk, and to provide a drag and drop interface to quickly change the categories of a grade item (or the order in which items/categories are displayed). The combination of the two design ideas provides the full range of activities encompassed by this user story, and so we felt that both ideas could be incorporated for the best solution.
@@ -214,7 +214,7 @@ We kept most of the design decisions made in the wireframe, such as which drag h
 One additional adjustment to the UI that was not included in the wireframe, was the decision to split out the “New” button into two separate buttons for “New Item” and “New Category”. We felt that this would be important because it reduces the number of clicks instructors need to make in order to add an item [21]. In addition, the new redesign for the “New Category” page makes it quite different to the “New Item” page, and because users are accomplishing two different goals with each option, it did not make much logical sense to group the buttons together. We wanted the “New Category” button to be immediately visible and accessible, to encourage instructors to make use of this grouping system.
 Upon keyboard or mouse hover or active state, the buttons will turn a darker shade - such interaction mimics the behavior already found on eLC and helps indicate to a user that the button is selectable. [22]
 
-User Story 5
+**User Story 5**
 {% include_relative assets/html/figma/mockup5.html %}
 Justification: 
 Again, we chose to incorporate both of our design ideas from the wireframes into our completed mockup of this user story. Both ideas deal with different aspects of the user action creating a grade item, and as such, both are important to include in our proposed design.
@@ -260,18 +260,18 @@ Link to video: <https://youtu.be/dZ1BWm1WqSg>
 
 [14] Nielson, Jacob. (2004). Checkboxes vs. Radio Buttons. Nielson Norman Group. <https://www.nngroup.com/articles/checkboxes-vs-radio-buttons/>
 
-[15] Joyce, Alita. (2019). Tooltip guidelines. Nielson Norman Group. https://www.nngroup.com/articles/tooltip-guidelines/
+[15] Joyce, Alita. (2019). Tooltip guidelines. Nielson Norman Group. <https://www.nngroup.com/articles/tooltip-guidelines/>
 
-[16] Sidney Smith, Jane Mosier. 1986. Guidelines for Designing User Interface Software. From http://www.hcibib.org/sam/1.html
+[16] Sidney Smith, Jane Mosier. 1986. Guidelines for Designing User Interface Software. From <http://www.hcibib.org/sam/1.html>
 
-[17] Laubheimer, Page. (2020). Drag-and-Drop: How to Design for Ease of Use.  Nielson Norman Group. https://www.nngroup.com/articles/drag-drop/
+[17] Laubheimer, Page. (2020). Drag-and-Drop: How to Design for Ease of Use.  Nielson Norman Group. <https://www.nngroup.com/articles/drag-drop/>
 
-[18] Instructure. How do I move or reorder an assignment? (2021) https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-move-or-reorder-an-assignment/ta-p/1289
+[18] Instructure. How do I move or reorder an assignment? (2021) <https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-move-or-reorder-an-assignment/ta-p/1289>
 
 [19] Kaley, Anna. (2019). Popups: 10 Problematic Trends and Alternatives. Nielson Norman Group. <https://www.nngroup.com/articles/popups/>
 
-[20] Edward Wegman and Yasmin Said. Color theory and design. WIREs Computational Statistics, 3(2):104–117, 2011. doi:https://doi.org/10.1002/wics.146.
+[20] Edward Wegman and Yasmin Said. Color theory and design. WIREs Computational Statistics, 3(2):104–117, 2011. doi:<https://doi.org/10.1002/wics.146>
 
-[21] Harley, Aurora. (2015). No More Pogo-Sticking: Protect Users From Wasted Clicks.  Nielson Norman Group.  https://www.nngroup.com/articles/pogo-sticking/
+[21] Harley, Aurora. (2015). No More Pogo-Sticking: Protect Users From Wasted Clicks.  Nielson Norman Group.  <https://www.nngroup.com/articles/pogo-sticking/>
 
-[22] Babich, Nick. (2018). 7 Basic Rules for Button Design. UX Planet. https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4
+[22] Babich, Nick. (2018). 7 Basic Rules for Button Design. UX Planet. <https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4>
