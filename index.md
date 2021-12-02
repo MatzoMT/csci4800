@@ -10,3 +10,4 @@ CSCI4800
 - [Milestone 1](https://matzomt.github.io/csci4800/milestone1.html)
 - [Milestone 2](https://matzomt.github.io/csci4800/milestone2.html)
 - [Milestone 3](https://matzomt.github.io/csci4800/milestone3.html)
+- [Milestone 4](https://matzomt.github.io/csci4800/milestone4.html)
