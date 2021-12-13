@@ -19,9 +19,9 @@ We prototyped interactions for both the student view of the eLC Grades page and 
 
 Asset Attributions:
 
-© 2021 D2L Corporation, Brightspace LMS. (Icons in header)
+Icons in eLC Header: © 2021 D2L Corporation, Brightspace LMS.
 
-© University of Georgia, Athens, GA 30602. (eLearningCommons logo)
+eLearning Commons Logo: © University of Georgia, Athens, GA 30602.
 
 ## User Stories
 ### User Story 1
