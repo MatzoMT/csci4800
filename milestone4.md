@@ -118,8 +118,10 @@ Data collected by these experiments and on testing subject identities would be p
 To perform a qualitative analysis on student and instructor testing subjects’ ability and satisfaction in using our eLC design, we would ask a survey at the end of each participant is completed with their tasks for each type of interface (original vs prototype). A sample survey and its questions are as follows:
 
 Students:
-1. How easy was it for you to locate your final grade in the course? This question will be asked to all students, both the control and treatment groups, and responses will be given on a scale from 1 to 5, with 1 being very difficult and 5 being very easy.
-2. How easy was it for you to calculate your final or desired grade in the course based on the resources provided to you? This question will be asked to all students, both the control and treatment groups, and responses will be given on a scale from 1 to 5, with 1 being very difficult and 5 being very easy.
+1. How easy was it for you to locate your final grade in the course? 
+    - This question will be asked to all students, both the control and treatment groups, and responses will be given on a scale from 1 to 5, with 1 being very difficult and 5 being very easy.
+2. How easy was it for you to calculate your final or desired grade in the course based on the resources provided to you? 
+    - This question will be asked to all students, both the control and treatment groups, and responses will be given on a scale from 1 to 5, with 1 being very difficult and 5 being very easy.
 
 Instructors:
 1. How satisfied were you with using your eLC interface in creating a new gradebook for your course? This question will be asked to instructors across both the control and treatment groups, and responses will be given on a scale from 1 to 5, with 1 being very dissatisfied and 5 being very satisfied.
@@ -135,27 +137,21 @@ For our quantitative data collected in the spreadsheet, we wish to analyze the d
 
 This will help us answer the following research questions: 
 - Does adding a course framework manager to the instructor view of eLC improve instructors’ (satisfaction and) speed when configuring their gradebook? 
-
-By analyzing the tasks related to instructor speed when configuring a gradebook framework
+    - By analyzing the tasks related to instructor speed when configuring a gradebook framework
 - Does a bulk-edit and drag-and-drop interface increase an instructor’s speed and likelihood to categorize grade items? 
-
-By analyzing the tasks related to time to add and categorize grade items 
+    - By analyzing the tasks related to time to add and categorize grade items 
 - Does adding a grade calculator and default calculated grade to the student view of eLC improve a students’ ability to determine their standing in a course? 
-
-By analyzing the tasks related to the speed at which students can determine and calculate their overall course grade
+    - By analyzing the tasks related to the speed at which students can determine and calculate their overall course grade
 
 For each question, if a t-test reveals that there is a statistically significant difference in the times between the two groups on the corresponding task(s), we will be able to gain insight into our research question.
 
 For the survey data, measuring the user’s ability and ease of completing their task on a numerical scale, the numerical data in the responses would be collected into a spreadsheet like the quantitative data. From there, a simple data analysis can be performed to find a relation between the different eLC formats and user response. This analysis can be as simple as comparing the percentage of users reporting a positive, negative, or neutral response between the two types of inerfaces. This will allow us to potentially falsify the following research questions:
 - Does adding a grade calculator and default calculated grade to the student view of eLC improve a students’ ability to determine their standing in a course?
-
-If a larger percent of the student group indicate they are satisfied (postive emotions) after the prototype experience, then the features added may be helpful.
+    - If a larger percent of the student group indicate they are satisfied (postive emotions) after the prototype experience, then the features added may be helpful.
 - Does changing the eLC instructor view format from a text-based UI to a more colorful and graphics-heavy UI improve instructors’ ability to use eLC?
-
-If a larger percent of the instructor group indicate they are satisfied (postive emotions) after the prototype experience, then the colors and graphics may be helpful.
+    - If a larger percent of the instructor group indicate they are satisfied (postive emotions) after the prototype experience, then the colors and graphics may be helpful.
 - Does adding a course framework manager to the instructor view of eLC improve instructors’ satisfaction (and speed) when configuring their gradebook?
-
-If a larger percent of the instructor group indicate they are satisfied (postive emotions) after the prototype experience, then the franework feature may be an improvement.
+    - If a larger percent of the instructor group indicate they are satisfied (postive emotions) after the prototype experience, then the franework feature may be an improvement.
 
 **Pandemic Protocols**: Because our testing procedure relies on the time taken to perform a task, it is important for certain controls to be in place. These controls include users having access to the same computer to ensure even performance, and identical peripherals such as a mouse to ensure that users’ performance would not be interfered with using different hardware. Since a computer and its components are high-touch surfaces, our experiment would have COVID-19 protocols in place, such as mask wearing. All high-touch surfaces used in the experiment would also be disinfected before use by each testing subject.
 
