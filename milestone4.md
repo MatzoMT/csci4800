@@ -156,4 +156,7 @@ For the survey data, measuring the user’s ability and ease of completing their
 **Pandemic Protocols**: Because our testing procedure relies on the time taken to perform a task, it is important for certain controls to be in place. These controls include users having access to the same computer to ensure even performance, and identical peripherals such as a mouse to ensure that users’ performance would not be interfered with using different hardware. Since a computer and its components are high-touch surfaces, our experiment would have COVID-19 protocols in place, such as mask wearing. All high-touch surfaces used in the experiment would also be disinfected before use by each testing subject.
 
 # C. Final Summary Video
-...
+
+{% include_relative assets/html/youtubeMilestone4.html %}
+
+Demo Video: <https://youtu.be/715MK6Jgiho>
