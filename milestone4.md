@@ -82,9 +82,9 @@ We believe that the most suitable methodology for testing our product would invo
 
 An experimental setup will allow us to get quantitative data to examine our research questions, many of which are centered around the time taken or ease of use of the new platforms. An experiment would involve recruiting from at least two different populations, students and instructors, to determine which prototype and view of eLC they will be given. Participants will be given the original eLC and a prototype of our product. We would observe the users as they perform certain tasks related to using the eLC gradebook and measure the time taken; for testing the instructor side, this would include setting up a grading structure and framework, and for the student side, this would include determining the student’s overall grade in a class. 
 
-We also want to collect qualitative data on the user’s experiences and emotions while performing the tasks to address the more subjective aspect of our research question. Therefore, after the tasks, we would conduct a survey asking the participants qualitative questions such as whether they were able to complete a task successfully and whether they felt the task was easy to perform. By analyzing both the time taken to perform the above tasks and the percent of users who gave positive feedback among the two groups, we would then be able to determine the effects of our proposed redesign of the eLC grades page and compare the two designs.
+We also want to collect qualitative data on the user’s experiences and emotions while performing the tasks to address the more subjective aspect of our research question. Therefore, after the tasks, we would conduct a survey asking the participants qualitative questions such as whether they were able to complete a task successfully and whether they felt the task was easy to perform. By analyzing both the time taken to perform the above tasks and the percent of users who gave positive feedback among the two groups, we would then be able to determine the effects of our proposed redesign of the eLC grades page and compare the two designs. Surveys are well suited to this purpose because they are a low-cost, low-bias way to obtain precise results about subjetive questions. [1]
 
-Our testing experiment aligns with Ronald Fisher’s principles for Designed Experiments as follows:
+Our testing experiment aligns with Ronald Fisher’s principles for Designed Experiments [2] as follows:
 1. Comparison: For our experiment, the treatment would be the changes done to eLC, including adding frameworks, visualizing the setup of a gradebook, and other UI changes, while the control would be the current state of eLC.
 2. Randomization: The experiment will select participants randomly to minimize sources of bias.
 3. Statistical replication: Each trial will be repeated and analyzed for a user to fully complete their given task. The time and success to complete each task will be analyzed with other trials based on the number of attempts already taken. The setup of our experiment is easily replicable by another study.
@@ -94,7 +94,7 @@ Our testing experiment aligns with Ronald Fisher’s principles for Designed Exp
 
 ## Testing Procedure 
 
-**Informed Consent Plan**: Because our research involves experimentation with human subjects, our group will distribute an informed consent form to testing subjects prior to testing. Based on a sample informed consent structure provided by the Smithsonian Institution, the informed consent form will outline the purpose of the experiment, testing procedures, risks to testing subjects, subject confidentiality, and benefits of the experiment.
+**Informed Consent Plan**: Because our research involves experimentation with human subjects, our group will distribute an informed consent form to testing subjects prior to testing. Based on a sample informed consent structure provided by the Smithsonian Institution, the informed consent form will outline the purpose of the experiment, testing procedures, risks to testing subjects, subject confidentiality, and benefits of the experiment. We would also make sure that our informed consent form to UGA's human research program specifications as outlined in UGAHRP-090-3 online. [3]
 
 **Data Collection**: Data we would need to collect regarding testing subjects would be their occupation and experience with learning management systems such as eLC. The testing subjects’ occupation (student or instructor) will determine which experiment the subject will be placed in. Our two primary experiment groups are for tasks designed for instructors and tasks designed for students. Experiment information gathered includes the time taken to complete a task and whether the testing subject was successful in completing their task.  An experimenter will record the data as the participants complete their tasks.
 
@@ -127,13 +127,13 @@ Instructors:
 1. How satisfied were you with using your eLC interface in creating a new gradebook for your course? This question will be asked to instructors across both the control and treatment groups, and responses will be given on a scale from 1 to 5, with 1 being very dissatisfied and 5 being very satisfied.
 2. How satisfied were you with using your eLC interface in making changes to an existing gradebook for your course? This question will be asked to instructors across both the control and treatment groupos, and responses will be given on a scale from 1 to 5, with 1 being very dissatisfied and 5 being very satisfied.	
 
-Survey questions would likely be administered over a platform such as Google Forms. The results will then be put in a spreadsheet similar to what was used to store information for testing experiments, and the numerical values given in survey responses will be analyzed to see instructor’s qualitative reactions to using eLC.
+We chose these questions and basic format based on standard system usability questions, though adapted to our use case of specific tasks on the eLC grades page. Survey questions would likely be administered over a platform such as Google Forms. The results will then be put in a spreadsheet similar to what was used to store information for testing experiments, and the numerical values given in survey responses will be analyzed to see instructor’s qualitative reactions to using eLC.
 
 ![instructorsurvey](assets/images/instructorsurvey.png)
 ![studentsurvey](assets/images/studentsurvey.png)
 
 For our quantitative data collected in the spreadsheet, we wish to analyze the difference between the mean times of the two groups: the current eLC design and the new proposed design. This would best be accomplished with a [paired samples t-test](https://en.wikipedia.org/wiki/Student%27s_t-test
-) which compares the mean times of both the current design group and the prototype groups, to determine if there is a statistically significant difference between the two.
+) which compares the mean times of both the current design group and the prototype groups, to determine if there is a statistically significant difference between the two. A paired t-test is appropriate to use when analyzing our data because a single set of data points corresponds to the same subject on a certain task, one for the current design and one for the prototype design. [4]
 
 This will help us answer the following research questions: 
 - Does adding a course framework manager to the instructor view of eLC improve instructors’ (satisfaction and) speed when configuring their gradebook? 
@@ -160,3 +160,13 @@ For the survey data, measuring the user’s ability and ease of completing their
 {% include_relative assets/html/youtubeMilestone4.html %}
 
 Demo Video: <https://youtu.be/715MK6Jgiho>
+
+# Sources
+
+[1] Ponto, Julie. Understanding and Evaluating Survey Research. 2015. Journal of the Advanced Practicioner in Oncology. From <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4601897/>
+
+[2] Fisher, Ronald. The Design of Experiments. 1935.
+
+[3] Human Research Protection Program. IRB Informed Consent Process for Research. University of Georgia. From <https://research.uga.edu/docs/policies/compliance/hso/IRB-Informed-Consent-Process-for-Research.pdf>
+
+[4] 'Student's' t Test (For Paired Samples). Rice University. From <https://www.ruf.rice.edu/~bioslabs/tools/stats/pairedttest.html>
