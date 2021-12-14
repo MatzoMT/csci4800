@@ -23,6 +23,8 @@ Icons in eLC Header: © 2021 D2L Corporation, Brightspace LMS.
 
 eLearning Commons Logo: © University of Georgia, Athens, GA 30602.
 
+For our prototypes, we heavily drew inspiration from the existing eLC implementation, which is built on Brightspace LMS. Our use of the assets in the webpage header falls under educational fair use. To view our fair use notice, please visit the site [homepage](https://matzomt.github.io/csci4800/).
+
 ## User Stories
 ### User Story 1
 Description:  As a student user, I want to view my overall calculated grade in a course so that I can understand my overall performance in the class.
@@ -153,7 +155,7 @@ For the survey data, measuring the user’s ability and ease of completing their
 - Does adding a course framework manager to the instructor view of eLC improve instructors’ satisfaction (and speed) when configuring their gradebook?
     - If a larger percent of the instructor group indicate they are satisfied (postive emotions) after the prototype experience, then the framework feature may be an improvement.
 
-**Pandemic Protocols**: Because our testing procedure relies on the time taken to perform a task, it is important for certain controls to be in place. These controls include users having access to the same computer to ensure even performance, and identical peripherals such as a mouse to ensure that users’ performance would not be interfered with using different hardware. Since a computer and its components are high-touch surfaces, our experiment would have COVID-19 protocols in place, such as mask wearing. All high-touch surfaces used in the experiment would also be disinfected before use by each testing subject.
+**Pandemic Protocols**: Because our testing procedure relies on the time taken to perform a task, it is important for certain controls to be in place. These controls include users having access to the same computer to ensure even performance, and identical peripherals such as a mouse to ensure that users’ performance would not be interfered with using different hardware. Since a computer and its components are high-touch surfaces, our experiment would have appropriate COVID-19 protocols in place, such as mask wearing, which reduces the spread of airborne disease. [5] All high-touch surfaces used in the experiment would also be disinfected before use by each testing subject.
 
 # C. Final Summary Video
 
@@ -170,3 +172,5 @@ Demo Video: <https://youtu.be/715MK6Jgiho>
 [3] Human Research Protection Program. IRB Informed Consent Process for Research. University of Georgia. From <https://research.uga.edu/docs/policies/compliance/hso/IRB-Informed-Consent-Process-for-Research.pdf>
 
 [4] 'Student's' t Test (For Paired Samples). Rice University. From <https://www.ruf.rice.edu/~bioslabs/tools/stats/pairedttest.html>
+
+[5] Howard, Jeremy; Huang, Austin; et al. An evidence review of face masks against COVID-19. 2021. Proceedings of the National Academy of Sciences of the United States of America. From <https://www.pnas.org/content/118/4/e2014564118>
